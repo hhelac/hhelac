@@ -1,6 +1,6 @@
 # Hi there, I'm Hana! 👋
 
-I am a 2nd-year **Computer Science and Informatics student** at the Faculty of Electrical Engineering (ETF Sarajevo). Alongside my academic journey, I am a proud **BH Futures Foundation Scholar** and a **Druga gimnazija Sarajevo alumna**. 
+I am a 2 **Computer Science and Informatics student** at the Faculty of Electrical Engineering (ETF Sarajevo). Alongside my academic journey, I am a proud **BH Futures Foundation Scholar** and a **Druga gimnazija Sarajevo alumna**. 
 
 I am passionate about software engineering, building full-stack applications, and continuously expanding my knowledge in AI, web, and game development.
 
